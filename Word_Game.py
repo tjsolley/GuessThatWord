@@ -25,7 +25,7 @@ print " "
 time.sleep(1)
 
 print "Start guessing..."
-time.sleep(0.5)
+time.sleep(1)
 
 #here we set the secret word
 import random
