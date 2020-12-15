@@ -9,3 +9,15 @@ use a while loop to count the number of tries
 print results to user (Win or Lose)
 """
 
+"""
+import a timer
+input = raw user name
+set timer for allotted guessing time
+import Words_List
+use random.choice to select random word from list
+set guesses = 10
+use while loop to iterate 10 times for each iteration the user submits a guess
+based on answer program will return with next guess or wrong
+if user can figure out the word before using max tries print "YOU WON!"
+else print "You lose."
+"""
